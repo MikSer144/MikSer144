@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mikser
 
-<!--
-**MikSer144/MikSer144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎯 Passionate about backend development and trading automation
+- 🧠 Currently learning Python, machine learning
+- 💼 Working on my personal trading bot project
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PineScript](https://img.shields.io/badge/Pine_Script-008000?style=for-the-badge&logo=tradingview&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUJ_LOGIN_GITHUB&layout=compact&theme=radical)
+
+## 📈 Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikser&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mikser&show_icons=true&theme=radical)
+
+## 📫 Contact
+📧 [Email](mailto:mikolaj7894123@gmail.com)
+
+
