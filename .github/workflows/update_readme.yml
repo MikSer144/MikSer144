@@ -1,0 +1,28 @@
+name: Days Counter
+on:
+  schedule:
+    - cron: "0 0 * * *" # Codziennie o północy
+  workflow_dispatch: # Ręczne uruchomienie
+
+jobs:
+  update-days:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Calculate days
+        id: calculate
+        run: |
+          START_DATE="2023-07-13"
+          DAYS=$(( ($(date +%s) - $(date -d "$START_DATE" +%s)) / 86400 ))
+          echo "days=$DAYS" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          sed -i "s/Experience on charts [0-9]* days/Experience on charts ${{ steps.calculate.outputs.days }} days/g" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update days counter"
