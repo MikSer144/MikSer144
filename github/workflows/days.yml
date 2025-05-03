@@ -1,0 +1,25 @@
+name: Days Counter
+on:
+  schedule:
+    - cron: "0 12 * * *" # Codziennie o 12:00 UTC (14:00 polskiego czasu)
+  workflow_dispatch: # Ręczne uruchomienie
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Calculate days
+        run: |
+          start="2023-07-13"
+          days=$(( ($(date +%s) - $(date -d "$start" +%s)) / 86400 ))
+          echo "DAYS=$days" >> $GITHUB_ENV
+          
+      - name: Update README
+        run: |
+          sed -i "s/DAYS_SINCE_START:[0-9]*/DAYS_SINCE_START:${{ env.DAYS }}/g" README.md
+          
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update days: ${{ env.DAYS }}"
