@@ -10,7 +10,8 @@
 ![PineScript](https://img.shields.io/badge/Pine_Script-008000?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📈 **Experience on charts:** `{{chart_experience_days}}` days
+## 📈 Experience on charts
+![Market Experience](https://img.shields.io/badge/Experience_on_charts-377_days-0080FF?style=for-the-badge)
 
 ## 📫 Contact
 📧 [Email](mailto:mikolaj7894123@gmail.com)
