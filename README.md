@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Experience on charts
-DAYS_SINCE_START:660 <!-- Automatycznie aktualizowane -->
+<img src="https://img.shields.io/badge/EXPERIENCE_ON_CHARTS-660_DAYS-red?style=for-the-badge&logo=grafana">
 
 ## 📫 Contact
 📧 [Email](mailto:mikolaj7894123@gmail.com)
