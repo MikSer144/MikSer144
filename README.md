@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Experience on charts
-<img src="https://img.shields.io/badge/EXPERIENCE_ON_CHARTS-660_DAYS-red?style=for-the-badge&logo=grafana">
+DAYS_SINCE_START:660 <!-- Auto-updated -->
 
 ##  Project Roadmap  
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **1. Market Data Collection**  
