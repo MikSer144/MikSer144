@@ -27,7 +27,7 @@ Fine-tune NLP model for FOMO/FUD detection.
 Implement proprietary trading logic & optimize parameters.  
 
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **5. Backtesting & Strategy**  
-Historical simulation + risk metrics (Sharpe ratio).  
+Historical simulation (paper-trading) + risk management.  
 
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **6. Bot Deployment**  
 Live trading on Bybit/MT5.  
