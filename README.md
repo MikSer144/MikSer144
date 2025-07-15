@@ -17,7 +17,7 @@
 <img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35"> **1. Market Data Collection**  
 Integrate API (Twitter, Cryptopanic) & scrape crypto news sites.
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **2. Data Pipeline**  
+<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35"> **2. Data Pipeline**  
 Clean data & set up real-time processing.  
 
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **3. AI Sentiment Analysis**  
