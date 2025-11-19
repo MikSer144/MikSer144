@@ -23,7 +23,7 @@ Clean data & set up real-time processing.
 <img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35"> **3. AI Sentiment Analysis**  
 Fine-tune NLP model for FOMO/FUD detection.  
 
-<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="20" height="20"> **4. Custom Indicator Integration**  
+<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **4. Custom Indicator Integration**  
 Implement proprietary trading logic & optimize parameters.  
 
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **5. Backtesting & Strategy**  
