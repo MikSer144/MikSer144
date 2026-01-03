@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Experience on charts
-![Experience](https://img.shields.io/badge/EXPERIENCE_ON_CHARTS-900_DAYS-blue?style=for-the-badge&logo=tradingview)
+![Experience](https://img.shields.io/badge/EXPERIENCE_ON_CHARTS-910_DAYS-blue?style=for-the-badge&logo=tradingview)
 
 ##  Project Roadmap  
 <img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35"> **1. Market Data Collection**  
@@ -26,7 +26,7 @@ Fine-tune NLP model for FOMO/FUD detection.
 <img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **4. Custom Indicator Integration**  
 Implement proprietary trading logic & optimize parameters.  
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **5. Backtesting & Strategy**  
+<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **5. Backtesting & Strategy**  
 Historical simulation (paper-trading) + risk management.  
 
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **6. Bot Deployment**  
