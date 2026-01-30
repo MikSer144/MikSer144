@@ -9,6 +9,9 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PineScript](https://img.shields.io/badge/Pine_Script-008000?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 
 ## 📈 Experience on charts
 ![Experience](https://img.shields.io/badge/EXPERIENCE_ON_CHARTS-930_DAYS-blue?style=for-the-badge&logo=tradingview)
