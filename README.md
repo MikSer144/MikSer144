@@ -37,10 +37,10 @@ Implement proprietary trading logic & optimize parameters.
 <img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **5. Backtesting & Strategy**  
 Historical simulation (paper-trading) + risk management.  
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **6. Bot Deployment**  
+<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **6. Bot Deployment**  
 Live trading on Bybit/MT5.  
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="20" height="20"> **7. Optimization & Scaling**  
+<img src="https://media0.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="35" height="20"> **7. Optimization & Scaling**  
 100% self-acting trading bot.  
 
 ## 📫 Contact
