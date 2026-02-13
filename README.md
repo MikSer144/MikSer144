@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=1F6FEB&center=true&vCenter=true&width=850&lines=Algorithmic+Trading+%26+Backend+Systems;Building+Personal+Trading+Infrastructure;Python+%7C+ML+%7C+Crypto+Quant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=1F6FEB&center=true&vCenter=true&width=850&lines=Algorithmic+Trading+%26+Backend+Systems;Personal+Trading+Infrastructure;Python+%7C+ML+%7C+Crypto+Quant" />
 </p>
 
 # 👋 Hi, I'm **Mikser**
