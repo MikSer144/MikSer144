@@ -43,4 +43,4 @@
 ---
 
 ## 📫 Contact
-📧 [Email](mailto:mikolaj7894123@gmail.com)
+📧 [Email](mailto:Mikser144@proton.me)
