@@ -15,7 +15,7 @@
 ---
 
 ## 📈 Market Experience
-![Experience](https://img.shields.io/badge/TRADING_EXPERIENCE-1050_DAYS-blue?style=for-the-badge&logo=tradingview) 
+![Experience](https://img.shields.io/badge/TRADING_EXPERIENCE-1060_DAYS-blue?style=for-the-badge&logo=tradingview) 
 
 ---
 
