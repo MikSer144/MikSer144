@@ -4,14 +4,6 @@
 
 # 👋 Hi, I'm **Mikser**
 
-
-## ⚡ About Me
-
-- 🎯 **Passionate about backend development and trading automation**
-- 🧠 **Currently learning Python**
-- 💼 **Working on my personal trading infrastructure**
-
-
 ---
 
 ## 📈 Market Experience
