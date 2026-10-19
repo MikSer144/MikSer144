@@ -36,9 +36,7 @@
 
 ## 🧪 Active Projects
 
-- **Market Center** - personal website & trading hub. you can see preview here :point_right: https://market-center.pl/
-- **Signal Forge** - custom trading indicators & signal research framework
-- **Strategy Lab** - experimental strategy environment
+🤫
 
 ---
 
